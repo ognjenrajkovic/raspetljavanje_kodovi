@@ -1,2 +1,2 @@
-# raspetljavanje_kodovi
-raspetljavanje 2024 kodovi
+# Raspetljavanje kodovi 2024
+Kodovi sa rasPETLJAvanje 3.0
