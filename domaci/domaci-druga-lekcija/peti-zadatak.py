@@ -6,3 +6,5 @@ elif n % 3 == 0 and n % 5 != 0:
     print("Broj je deljiv sa 3, ali nije deljiv sa 5.")
 elif n % 3 != 0 and n % 5 == 0:
     print("Broj je deljiv sa 5, ali nije deljiv sa 3.")
+else:
+    print("Broj nije deljiv ni sa 3 ni sa 5.")
